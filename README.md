@@ -115,25 +115,6 @@ The program includes several methods for organizing rental properties:
 
 The sample properties and rental criteria can be modified in `ProjectOneTester.java` to test different scenarios.
 
-## Java Concepts Used
-
-This project demonstrates several Java programming concepts, including:
-
-- **Object-Oriented Programming** - Organizing functionality into classes and objects.
-- **Inheritance** - Using a superclass and subclasses to share property information.
-- **Polymorphism** - Managing different property types through shared methods and references.
-- **Encapsulation** - Using private fields with public getters and setters.
-- **Constructor Overloading** - Providing multiple ways to initialize property objects.
-- **Method Overriding** - Customizing scoring and display methods for different property types.
-- **Interfaces** - Implementing `Comparable<Property>` to compare and sort objects.
-- **Generics and ArrayLists** - Storing and managing property objects in collections.
-- **Searching and Sorting** - Filtering properties and sorting them using `Collections.sort()`.
-- **Enhanced For Loops** - Iterating through rental listings.
-- **Conditional Statements** - Evaluating affordability, availability, and amenities.
-- **Boolean Logic** - Checking whether properties meet specific criteria.
-- **The `super` and `this` Keywords** - Accessing inherited functionality and initializing objects.
-- **The `equals()` and `toString()` Methods** - Comparing properties and generating readable descriptions.
-
 ## Purpose
 
 The purpose of this project is to demonstrate how **object-oriented programming, data structures, inheritance, polymorphism, and searching and sorting algorithms** can be used to create a practical rental property tracking system.
